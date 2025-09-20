@@ -3,7 +3,8 @@ import cerebro from "./brain.svg"
 import vista from "./view.svg";
 import verbal from "./verbal.svg"
 
-export default{
+export
+ default{
     "light": rayo,
     "brain": cerebro,
     "view": vista,
