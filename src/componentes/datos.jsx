@@ -21,10 +21,10 @@ const [comentarios, SetComentarios] = useState(`conozco 30 personas duras y tu n
         <div className='resumen'>
         <h2 className='summary'>Summary</h2>
         <div className='stats-container'>
-        <Stats nombre={`Reaction`} value={`23`} color={`red`} icono={icons.light} />
-        <Stats nombre={`Memory`} value={`23`} color={`yellow`} icono={icons.brain} />
-        <Stats nombre={`Verbal`} value={`23`} color={`green`} icono={icons.verbal}/>
-        <Stats nombre={`Visual`} value={`23`} color={`blue`} icono={icons.view}/>
+        <Stats nombre={`Reaction`} value={`93`} color={`red`} icono={icons.light} />
+        <Stats nombre={`Memory`} value={`75`} color={`yellow`} icono={icons.brain} />
+        <Stats nombre={`Verbal`} value={`100`} color={`green`} icono={icons.verbal}/>
+        <Stats nombre={`Visual`} value={`35`} color={`blue`} icono={icons.view}/>
         </div>
         <Boton texto={`Continue`} />
         </div>
